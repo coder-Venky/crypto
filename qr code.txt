@@ -1,0 +1,6 @@
+
+qr code generator  :  http://www.the-qrcode-generator.com/
+
+
+
+qr code reader  :  http://www.onlinebarcodereader.com/
